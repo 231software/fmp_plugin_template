@@ -1,0 +1,10 @@
+{
+    "scripts": {
+        "build":"node build"
+    },
+    "dependencies": {
+        "js-yaml":"^4.1.0",
+        "yaml":"^2.7.0",
+        "ws":"^8.18.0"
+    }
+}
